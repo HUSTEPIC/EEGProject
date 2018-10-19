@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[epic2.GTL]
+   Generated File[epic2.GBL]
+   Generated File[epic2.GPB]
+   Generated File[epic2.GPT]
+   Generated File[epic2.GTO]
+   Generated File[epic2.GTP]
+   Generated File[epic2.GTS]
+   Generated File[epic2.GBS]
+   Generated File[epic2.GBP]
+   Generated File[epic2.GBO]
+   Generated File[epic2.GKO]
+   Generated File[epic2.GM1]
+   Generated File[epic2.GM13]
+   Generated File[epic2.GM15]
+   Generated File[epic2.RUL]
+   Generated File[epic2.EXTREP]
+   Generated File[epic2.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 17:22:41 On 2018/10/19
