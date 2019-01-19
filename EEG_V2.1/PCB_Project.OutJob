@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=E:\2018-Task\2018-Œ‰¥Ûƒ‘πø\Project\epic_2\.PDF
+OutputFilePath2=D:\2018_hust_files\2018-EPIC\EEGProject\EEG_V2.1\.PDF
 ReleaseManaged2=0
-OutputBasePath2=E:\2018-Task\2018-Œ‰¥Ûƒ‘πø\Project\epic_2\
+OutputBasePath2=D:\2018_hust_files\2018-EPIC\EEGProject\EEG_V2.1\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -77,9 +77,11 @@ FFmpegPixelFormat4=0
 FFmpegQuality4=80
 WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
+PDFACompliance2=Disabled
+PDFVersion2=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=E:\2018-Task\2018-Œ‰¥Ûƒ‘πø\Project\epic_2\.PDF
+RelativeOutputPath2=D:\2018_hust_files\2018-EPIC\EEGProject\EEG_V2.1\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
@@ -144,7 +146,7 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=Filter
 Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration2_Name3=General
-Configuration2_Item3=TemplateFilename=
+Configuration2_Item3=TemplateFilename=Board Stack Report.XLT
 Configuration2_Name4=GroupOrder
 Configuration2_Item4=Comment=True|Footprint=True
 Configuration2_Name5=SortOrder

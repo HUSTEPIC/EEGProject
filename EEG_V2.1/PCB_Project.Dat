@@ -1,0 +1,29 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~D:\2018_hust_files\2018-EPIC\EEGProject\EEG_V2.1\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~19:11:36|ReportField=ReportDate~2019/1/19|ReportField=ReportDateTime~2019/1/19 19:11:36|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~73|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~efaface5939d60b03d5cfd04d859c3906f9c05e8|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/1/19|ReportField=CurrentTime~19:11:20|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\2018_hust_files\2018-EPIC\EEGProject\EEG_V2.1\epic_2.SchDoc|ReportField=DocumentName~epic_2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/12/26|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~D:\2018_hust_files\2018-EPIC\EEGProject\EEG_V2.1\PCB_Project.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|105K16V|贴片电容-陶瓷|C1, C3, C14, C16, C17, C23, C25, C27, C30|C0603|C0603X7R-105K16V|9
+2|104K50V|贴片电容-陶瓷|C2, C5, C18, C21, C22, C26, C29, C31|C0603|C0603X7R-104K50V|8
+3|335J10V|贴片电容-陶瓷|C4|C0603|C0603X7R-335J10V|1
+4|102K10V|贴片电容-陶瓷|C6, C7, C8, C9, C10, C11, C12, C13, C20|C0603|C0603X7R-102K10V|9
+5|100Uf|C1210-100UF|C15|C1210|C1210钽电容 --100UF--B3528|1
+6|106K50V|贴片电容-陶瓷|C19, C24, C28, C33|C0603|C0603X7R-106K50V|4
+7|LED0603G|贴片二极管-LED|D1|D-LED0603G|DLED-0603-G|1
+8|ESDA_TR1/0603|Zener Diode|D2, D4|HS_0603D|D Zener|2
+9|500mA/13.2V|500mA/13.2V 自恢复保险丝|D6, D10|D1206|1206MSD|2
+10|J-D2.45-1*4|J-D2.45-1*4|J1|D2.54-1*4P|J-D2.54-1*4单排排母|1
+11|USB-MINI-SOCKET|USB-A卧式插座|J2|MICRO-USB - 5.9|J-USB-MINI-SOCKET|1
+12|C-DSUB-25|C-DSUB-0064|J3|C-DSUB-25|C-DSUB-25|1
+13|J-D2.54-1*2|J-D2.54-1*2|J5|D2.54-1*2P|J-D2.54-1*2单排|1
+14|SS-12D00|SS-12D00|K1|SS-12D00|SS-12D00(1P2T) 立式 柄高5MM|1
+15|3*6*5|贴片-卧式轻触开关|K3, K4|S-K3*6|3*6*5|2
+16|L-0603-3.3uH|贴片电感-屏蔽|L1|L0603|L-0603-3.3uH|1
+17|ADS1299|ADS1299-S-PQFP-64|M1|ADS1299-TSQFP50P1200X1200X105-64N|ADS1299|1
+18|PHONE||P||PHONE|1
+19|2.2KF|贴片电阻-通用|R1, R2, R3, R4, R6, R8, R9, R10, R11, R14|R0603|R0603-2.2KF|10
+20|22RF|贴片电阻-通用|R5, R7|R0603|R0603-22RF|2
+21|0R (NC)|贴片电阻-通用|R12, R13, R20, R22|R0603|R0603-0R|4
+22|1MF|贴片电阻-通用|R15|R0603|R0603-1MF|1
+23|10KF|贴片电阻-通用|R16, R17, R18, R19|R0603|R0603-10KF|4
+24|0R|贴片电阻-通用|R21|R0603|R0603-0R|1
+25|3KF|贴片电阻-通用|R23|R0603|R0603-3KF|1
+26|1RJ|贴片电阻-通用|R26|R0603|R0603-1RJ|1
+27|ch559t|CH559T-20pin|U1|SSOP-20|CH559T|1
+28|AMS1117_5V|AMS1117_5V|U2|SOT-223|AMS1117-5V|1
